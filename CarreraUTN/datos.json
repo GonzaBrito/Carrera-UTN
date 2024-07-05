@@ -1,0 +1,58 @@
+[
+    {
+        "nombre": "gonzalo",
+        "puntaje": 100
+    },
+    {
+        "nombre": "bianca",
+        "puntaje": 50
+    },
+    {
+        "nombre": "jose",
+        "puntaje": 60
+    },
+    {
+        "nombre": "roberto",
+        "puntaje": 80
+    },
+    {
+        "nombre": "josefina",
+        "puntaje": 20
+    },
+    {
+        "nombre": "maria",
+        "puntaje": 90
+    },
+    {
+        "nombre": "chano",
+        "puntaje": 100
+    },
+    {
+        "nombre": "sofia",
+        "puntaje": 50
+    },
+    {
+        "nombre": "rodrigo",
+        "puntaje": 30
+    },
+    {
+        "nombre": "Rocio",
+        "puntaje": 50
+    },
+    {
+        "nombre": "stella",
+        "puntaje": 60
+    },
+    {
+        "nombre": "facundo",
+        "puntaje": 80
+    },
+    {
+        "nombre": "pepe",
+        "puntaje": 100
+    },
+    {
+        "nombre": "hola",
+        "puntaje": 190
+    }
+]
